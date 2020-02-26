@@ -3,7 +3,6 @@
 ## http://www.gobiernodecanarias.org/istac/api/
 
 ### Alguna línea de código HTML que se aplique:
-
           <div class="section">
           <div class="izq">   	 
           <img src="/istac/resources/imagenes/logo_istac.jpg" alt="">    
@@ -14,7 +13,6 @@
           </div>
 
 ### Alguna línea de código CSS que se aplique:
-
           .section {
           font-family: "Droid Sans",sans-serif;
           font-size: 15px;
@@ -26,29 +24,30 @@
           }
 
 ### Alguna línea de código JavaScript:
-
           La página no emplea ninguna línea de código JavaScript.
 
 ### ¿Qué idioma acepta?
-
           No se especifica ninguno en concreto.
 
 ### Qué IP tiene tiene el servidor
-
           La IP del servidor es 93.188.136.129.
 
 ### Qué DNS tiene el servidor:
-
           www.gobiernodecanarias.org
 
 ### ¿La página tiene alguna cookie?, ¿Cuáles?
-
           No tiene ninguna cookie.
+          
+### Qué peticiones desencadena la consulta.
+          Peticiones de tipo GET.
+
+### ¿Qué tipo de petición estás realizando?
+          Peticiones de tipo GET.
+
 
 ## http://www3.gobiernodecanarias.org/sanidad/scs/gc/18/Cita_Previa/index.html
 
 ### Alguna línea de código HTML que se aplique:
-
           <div class="jumbotron" style="text-align: left;padding:20px;">
           <h1 style="font-size:32px;">Cita previa</h1>
           <p style="font-size:14px;">
@@ -59,7 +58,6 @@
 
 
 ### Alguna línea de código CSS que se aplique:
-
           .container {
           	padding-right: 15px;
           	padding-left: 15px;
@@ -68,7 +66,6 @@
           }
 
 ### Alguna línea de código JavaScript:
-
           escape: function () {
                	var that = this
               	if (this.isShown && this.options.keyboard) {
