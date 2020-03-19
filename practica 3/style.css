@@ -1,0 +1,113 @@
+body {
+    font-family: "Arial";
+    font-size: 1.5em;
+    color: black;
+    width: 770px;
+    display: block;
+}
+
+.secundary {
+    float: left;
+    width: 340px;
+    background-color: #99b3ff;
+}
+
+ol {
+    list-style-type: none;
+    padding: 0;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+
+.navbar {
+    float: right;
+    width: 430px;
+    background-color: LightGray;
+    text-align: center;
+}
+
+li {
+    float: left;
+    margin-bottom: 0.7em;
+    padding: 0.3em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+}
+
+.principal {
+    width: 215px;
+    float: left;
+    background-color: #ff8080;
+    word-wrap: break-word;
+}
+
+.relevant {
+    width: 215px;
+    float: right;
+    background-color: #99ff66;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #ff8080;
+}
+
+tr {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+td {
+    display: block;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+footer {
+    margin: 50px 50px 50px 50px;
+    width: 770px;
+    overflow: auto;
+    border-style: solid;
+    background-color: #99e6e6;
+}
+
+a:link {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+table a:link {
+    color: green;
+}
+
+table .green:link {
+    color: green;
+}
+
+.navbar li:hover {
+    background-color: lime;
+}
+
+p {
+    margin-top: 0.5em;
+}
