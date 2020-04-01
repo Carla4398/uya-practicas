@@ -1,0 +1,147 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+html,body {
+	font-family: "Times New Roman", Times, serif;
+}
+
+#eleccion{
+    padding-left: 20px;
+}
+
+h1 {
+	color: #000;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+	text-transform: uppercase;
+	margin-top: 12px;
+}
+
+form {
+	width: 80%;
+	max-width: 100%;
+	height: auto;
+	margin: 20px auto;
+	padding: 2%;
+	border: 1px solid transparent;
+	background-color: #f4e3ff;
+	border-radius: 2em;
+	-webkit-border-radius: 2em;
+}
+
+label {
+	color: purple;
+	font-weight: bolder;
+	text-align: center;
+	display: block;
+	font-size: 18px;
+	margin: 4px auto;
+}
+
+input[type="text"] {
+	width: 95px;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 0px auto;
+	padding: 1.5%;
+	border: 1px solid #000;
+    text-align: center;
+}
+
+button {
+	width: 120px;
+	max-width: 100%;
+	height: auto;
+	text-align: center;
+	display: inline-block;
+	margin: 4px 2px;
+	padding: 5px;
+	color: purple;
+	font-size: 14px;
+	<!-- text-transform: uppercase;-->
+	cursor: pointer;
+	font-weight: bolder;
+	border: 1px solid purple;
+}
+
+button:hover {
+	color: #000;
+	background-color: purple;
+	border-color: #000;
+}
+
+#operador1 {
+    padding-left: 20px;
+}
+
+#operador2 {
+    padding-left: 20px;
+}
+
+a { 
+	color: purple; 
+	display: block; 
+	width: 120px; 
+	cursor: pointer; 
+	margin: 0px auto; 
+	padding: 5px; 
+	font-size: 18px; 
+	text-align: center; 
+	font-weight: bolder; 
+	text-decoration: none; 
+}
+
+a:hover { 
+	text-decoration: underline; 
+}
+
+#contenedor {
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+#sub_titulo {
+	color: #000;
+	text-align: center;
+	font-weight: bolder;
+	<!-- text-transform: uppercase;-->
+	font-size: 24px;
+}
+
+#operador {
+	width: 190px;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 5px auto;
+	padding: 1%;
+	border: 1px solid #000;
+}
+
+#botones {
+	width: 95%;
+	max-width: 100%;
+	height: auto;
+	margin: 6px auto 0px auto;
+	padding: 1.5%;
+	text-align: center;
+}
+
+#resultado {
+	width: 30%;
+	max-width: 100%;
+	height: auto;
+	margin: 15px auto;
+	padding: 1%;
+	color: purple;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bolder;
+}
