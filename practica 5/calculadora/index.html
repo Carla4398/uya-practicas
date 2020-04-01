@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es-HN">
+  <head>
+    <title>
+      Calculadora Simple con JS
+    </title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Una Calculadora Simple con JavaScript" name="description">
+    <meta content=
+    "calculadora, calculadora simple, calculadora simple con javascript" name=
+    "keywords">
+    <link href="style/index.css" media="screen" rel="stylesheet" type=
+    "text/css">
+  </head>
+  <body>
+    <div id="contenedor">
+      <h1>
+        Calculadora Simple con JavaScript 
+      </h1>
+      <br>
+      
+      <form>
+        <label for="Valor">Moneda a Convertir</label> <input id="Valor"
+        type="text"> <span class="mensaje_error" id="errorValor"></span>
+         <br>
+        <div align="center">
+        <p>
+          de:
+        </p>
+        <select id="operador1">
+          <option value="euro">
+            Euro
+          </option>
+          <option value="dolar">
+            Dolar
+          </option>
+          <option value="libra">
+            Libra
+          </option>
+        </select>
+        <p>
+          a:
+        </p>
+        <select id="operador2">
+          <option value="euro">
+            Euro
+          </option>
+          <option value="dolar">
+            Dolar
+          </option>
+          <option value="libra">
+            Libra
+          </option>
+        </select>
+        </div>
+        <div id="botones">
+          <button id="operar" type="button">Operar</button> <button id="borrar"
+          type="button">Borrar todo</button>
+          </div>
+      </form>
+        <br>
+      <h2 id="sub_titulo">
+        Resultado de la operación:
+      </h2>
+
+      <div id="resultado">
+      </div>
+    </div>
+    <script src="archivos_js/calculadora.js"></script>
+  </body>
+</html>
