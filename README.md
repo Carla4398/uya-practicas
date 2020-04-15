@@ -7,5 +7,5 @@
   #### Práctica 3. [Introducción a CSS](https://github.com/Carla4398/uya-practicas/tree/master/practica%203)
   #### Práctica 4. [Introducción a Materialize](https://github.com/Carla4398/uya-practicas/tree/master/practica%204)
   #### Práctica 5. [Introducción a JavaScript](https://github.com/Carla4398/uya-practicas/tree/master/practica%205)
-
+  #### Práctica 6. [Introducción a Ajax](https://github.com/Carla4398/uya-practicas/tree/master/practica%206)
   
