@@ -4,6 +4,7 @@
   #### Universidad de La Laguna.
   
   #### Captura antes de la actualización:
-  !(/ruta/a/la/imagen.jpg)
+  !(https://github.com/Carla4398/uya-practicas/blob/master/practica%207/1.PNG)
+  !(https://github.com/Carla4398/uya-practicas/blob/master/practica%207/2.PNG)
   #### Captura después de la actualización:
-  !(/ruta/a/la/imagen.jpg)
+  !(https://github.com/Carla4398/uya-practicas/blob/master/practica%207/3.PNG)
