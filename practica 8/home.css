@@ -1,0 +1,17 @@
+body{
+    font-size: 1em;
+}
+
+nav{
+    color: black;
+}
+
+nav h2{
+    font-size: 2.5em;
+}
+
+nav ul li a{
+    color: black;
+    font-size: 2em;
+}
+
