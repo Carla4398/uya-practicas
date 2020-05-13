@@ -9,3 +9,4 @@
   #### Práctica 5. [Introducción a JavaScript](https://github.com/Carla4398/uya-practicas/tree/master/practica%205)
   #### Práctica 6. [Introducción a Ajax](https://github.com/Carla4398/uya-practicas/tree/master/practica%206)
   #### Práctica 7. [Introducción a Firebase](https://github.com/Carla4398/uya-practicas/tree/master/practica%207)
+  #### Práctica 8. [WAI-ARIA](https://github.com/Carla4398/uya-practicas/tree/master/practica%208)
